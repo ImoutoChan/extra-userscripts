@@ -7,6 +7,8 @@
 // @match        *://*.boosty.to/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=boosty.to
 // @grant        GM_setClipboard
+// @updateURL    https://github.com/ImoutoChan/extra-userscripts/raw/master/boosty-copy-link-with-auth.user.js
+// @downloadURL  https://github.com/ImoutoChan/extra-userscripts/raw/master/boosty-copy-link-with-auth.user.js
 // ==/UserScript==
 
 (function() {
